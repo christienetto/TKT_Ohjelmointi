@@ -1,3 +1,4 @@
 # TKT_Ohjelmointi
-Tietokannat ja web-ohjelmointi
-test
+*TOhjelmistotekniikka, harjoitustyö*
+
+Aion tehdä **Homeworktracker** sovelluksen, jossa käyttäjä voi hallita kotitehtäviään, etsiä ja luokitella niitä sekä tarkastella tilastoja.
